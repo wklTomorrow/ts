@@ -1,0 +1,29 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "study.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wklTomorrow/ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wklTomorrow/ts/issues"
+  },
+  "homepage": "https://github.com/wklTomorrow/ts#readme",
+  "devDependencies": {
+    "browserify": "^16.5.2",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-util": "^3.0.8",
+    "tsify": "^5.0.2",
+    "typescript": "^4.0.2",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.1"
+  }
+}
